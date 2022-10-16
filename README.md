@@ -1,4 +1,4 @@
-# Curso-Funda-o-Bradesco
+# Curso-Fundacao-Bradesco
 Exercicios_fundacao_bradesco
 #Estruturas lógicas
 
